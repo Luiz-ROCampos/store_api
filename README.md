@@ -187,3 +187,4 @@ Vamos utilizar Pyenv + Poetry, link de como preparar o ambiente abaixo:
 [mongo-motor](https://motor.readthedocs.io/en/stable/)
 
 [pytest](https://docs.pytest.org/en/7.4.x/)
+# store_api
